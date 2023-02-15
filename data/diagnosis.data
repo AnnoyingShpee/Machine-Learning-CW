@@ -1,0 +1,14 @@
+yes,yes,yes,positive
+no,yes,no,positive
+yes,no,yes,positive
+no,yes,yes,positive
+yes,yes,yes,positive
+no,yes,yes,positive
+yes,no,yes,positive
+no,no,yes,negative
+no,yes,no,negative
+no,yes,no,negative
+yes,no,no,negative
+no,yes,yes,negative
+no,no,no,negative
+yes,no,no,negative

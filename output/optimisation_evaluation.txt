@@ -1,0 +1,75 @@
+==========================================================
+5-fold validation on Decision Tree Classifiers 
+==========================================================
+max_depth = 2
+Median accuracy score= 0.9367088607594937 
+-----------------------------------------------------------
+max_depth = 3
+Median accuracy score= 0.925 
+-----------------------------------------------------------
+max_depth = 5
+Median accuracy score= 0.9493670886075949 
+-----------------------------------------------------------
+max_depth = 7
+Median accuracy score= 0.9493670886075949 
+-----------------------------------------------------------
+max_depth = 10
+Median accuracy score= 0.9493670886075949 
+-----------------------------------------------------------
+Best DT accuracy score: 0.9493670886075949 ; Best DT params: {'max_depth': 5} 
+Best DT Params Test Data Accuracy Score = 0.9005847953216374 
+==========================================================
+
+==========================================================
+5-fold validation on Random Forest Classifiers 
+==========================================================
+n_estimators = 100
+Median accuracy score= 0.9620253164556962 
+-----------------------------------------------------------
+n_estimators = 200
+Median accuracy score= 0.95 
+-----------------------------------------------------------
+n_estimators = 500
+Median accuracy score= 0.9375 
+-----------------------------------------------------------
+Best RF accuracy score: 0.9620253164556962 ; Best RF params: {'n_estimators': 100} 
+Best RF Params Test Data Accuracy Score = 0.9473684210526315 
+==========================================================
+
+==========================================================
+5-fold validation on KNN Classifiers 
+==========================================================
+n_estimators = 1 : metric = euclidean 
+Median accuracy score= 0.8875 
+-----------------------------------------------------------
+n_estimators = 1 : metric = manhattan 
+Median accuracy score= 0.9125 
+-----------------------------------------------------------
+n_estimators = 11 : metric = euclidean 
+Median accuracy score= 0.9125 
+-----------------------------------------------------------
+n_estimators = 11 : metric = manhattan 
+Median accuracy score= 0.925 
+-----------------------------------------------------------
+n_estimators = 21 : metric = euclidean 
+Median accuracy score= 0.925 
+-----------------------------------------------------------
+n_estimators = 21 : metric = manhattan 
+Median accuracy score= 0.9375 
+-----------------------------------------------------------
+n_estimators = 31 : metric = euclidean 
+Median accuracy score= 0.9 
+-----------------------------------------------------------
+n_estimators = 31 : metric = manhattan 
+Median accuracy score= 0.925 
+-----------------------------------------------------------
+n_estimators = 51 : metric = euclidean 
+Median accuracy score= 0.9125 
+-----------------------------------------------------------
+n_estimators = 51 : metric = manhattan 
+Median accuracy score= 0.9125 
+-----------------------------------------------------------
+Best KNN accuracy score: 0.9375 ; Best KNN params: {'k': 21, 'metric': 'manhattan'} 
+Best KNN Params Test Data Accuracy Score = 0.9239766081871345 
+==========================================================
+

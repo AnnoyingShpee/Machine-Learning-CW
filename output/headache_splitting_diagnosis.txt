@@ -1,0 +1,5 @@
+measure_headache_information_gain = 0.06105378373381032 
+measure_headache_yes_gini_impurity_measure = 0.4444444444444445 
+measure_headache_no_gini_impurity_measure = 0.46875 
+measure_headache_gini_index = 0.041666666666666685 
+measure_headache_chi_squared = 1.1666666666666665 

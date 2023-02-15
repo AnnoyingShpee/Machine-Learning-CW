@@ -1,0 +1,10 @@
+dt_entropy_max_depth_1_balanced_acc = 0.7125 
+dt_entropy_max_depth_2_balanced_acc = 0.6583333333333333 
+dt_entropy_max_depth_3_balanced_acc = 0.575 
+dt_entropy_max_depth_4_balanced_acc = 0.5708333333333333 
+dt_entropy_max_depth_5_balanced_acc = 0.5833333333333334 
+dt_entropy_max_depth_6_balanced_acc = 0.5583333333333333 
+dt_entropy_max_depth_7_balanced_acc = 0.49583333333333335 
+dt_entropy_max_depth_8_balanced_acc = 0.5 
+dt_entropy_max_depth_9_balanced_acc = 0.48750000000000004 
+dt_entropy_max_depth_10_balanced_acc = 0.475 
